@@ -1,4 +1,4 @@
-public class Main {
+public class Main1 {
     public static void main (String[] args){
         System.out.println("Hej jag heter Ubah!");
         System.out.println("Jag är 20 år gammal.");
